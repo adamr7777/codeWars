@@ -14,6 +14,7 @@ function DNAtoRNA(dna) {
 
 
 
+
   console.log(DNAtoRNA('GCAT'));
 
 
